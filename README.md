@@ -6,11 +6,11 @@ validação independentes.
 
 ## Como navegar
 
-- `produto/`: visão, público, estratégia, métricas e prioridades.
-- `dominios/`: requisitos funcionais por capacidade do produto.
-- `transversais/`: regras que atravessam mais de um domínio.
-- `ux/`: jornadas, fluxos e wireframes.
-- `integracoes/`: contratos com sistemas externos.
+- `1.produto/`: visão, público, estratégia, métricas e prioridades.
+- `2.dominios/`: requisitos funcionais por capacidade do produto.
+- `3.transversais/`: regras que atravessam mais de um domínio.
+- `4.ux/`: jornadas, fluxos e wireframes.
+- `5.integracoes/`: contratos com sistemas externos.
 
 ## Convenção
 
