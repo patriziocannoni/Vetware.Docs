@@ -1,6 +1,6 @@
 # VETWARE - ESCOPO DO PROJETO
 
----
+
 
 ## Introdução
 
@@ -8,7 +8,6 @@ A Vetware é um marketplace que conecta tutores de pets a clínicas, hospitais v
 
 > Para o detalhamento estratégico (problema, personas, proposta de valor, métricas e priorização), veja `Specs/Vetware-Product-First.md`.
 
----
 
 ## 1. Autenticação e Autorização
 
