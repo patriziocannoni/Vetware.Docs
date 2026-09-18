@@ -4,5 +4,6 @@ O administrador convida por e-mail; o convidado aceita e completa os próprios d
 
 - Proprietário: titularidade, publicação e controle total.
 - Administrador: perfil, horários, equipe e operação.
-- Veterinário: dados profissionais e futuro acesso clínico.
+- Veterinário: dados profissionais; permissões clínicas serão especificadas em
+  documento próprio.
 - Atendente: agenda e atendimento com acesso restrito.

@@ -1,3 +1,4 @@
 # Avaliações
 
-Após o atendimento, o tutor poderá avaliar e atribuir nota ao prestador. Elegibilidade, moderação, respostas e cálculo de nota ainda não foram definidos.
+Após o atendimento, o tutor registra uma avaliação e uma nota do prestador.
+Elegibilidade, moderação, respostas e cálculo de nota não estão especificados.

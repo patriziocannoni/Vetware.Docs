@@ -15,8 +15,9 @@ validação independentes.
 ## Convenção
 
 Cada funcionalidade deve registrar objetivo, escopo, atores, fluxo, regras de
-negócio, dados, dependências, critérios de aceite e decisões em aberto quando
-essas informações existirem.
+negócio, dados, dependências, critérios de aceite e decisões em aberto. Quando
+uma definição não existir, o documento deve registrar esse estado sem inferir
+requisitos.
 
 ## Estado atual
 

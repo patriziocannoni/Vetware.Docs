@@ -10,6 +10,7 @@ Descoberta é manual, agenda ocorre por telefone/WhatsApp, histórico clínico �
 
 Identidade e acesso; cadastro de estabelecimentos, tutores e pets; busca; agendamento; carteira básica do pet; avaliações.
 
-## Depois do MVP
+## Fora do escopo do MVP
 
-E-commerce, lembretes, telemedicina, emergência geolocalizada, fidelidade e integrações B2B.
+E-commerce, lembretes, telemedicina, emergência geolocalizada, fidelidade e
+integrações B2B.
