@@ -11,6 +11,7 @@ validação independentes.
 - `3.transversais/`: regras que atravessam mais de um domínio.
 - `4.ux/`: jornadas, fluxos e wireframes.
 - `5.integracoes/`: contratos com sistemas externos.
+- `6.entregas/`: especificações executáveis e backlog do MVP.
 
 ## Convenção
 
