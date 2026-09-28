@@ -1,6 +1,6 @@
 # Vetware — Documentação de Produto
 
-Este repositório é a fonte funcional da Vetware. A documentação é
+Este repositório é a fonte funcional do Vetware. A documentação é
 organizada por domínio de produto para permitir especificação, implementação e
 validação independentes.
 
