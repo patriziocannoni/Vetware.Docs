@@ -14,3 +14,5 @@ Este repositório contém as especificações necessárias para implementar o MV
 Para implementar uma entrega, use o arquivo correspondente em `3.mvp/` e os
 padrões aplicáveis em `2.padroes/`. Cada MVP identifica o que está definido e
 o que exige refinamento antes do desenvolvimento.
+
+O Design System Vetware está definido em `2.padroes/5.design-system-vetware.md`.
